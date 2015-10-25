@@ -8,5 +8,6 @@
     "express": "^4.13.3",
     "gulp": "^3.9.0",
     "webpack": "^1.12.2"
-  }
+  },
+  "repository": "git@github.com:gobadiah/testing.git"
 }
